@@ -1,0 +1,27 @@
+*{
+  margin:0px;
+  padding: 0px;
+
+}
+html{
+  scroll-behavior: smooth;
+}
+body{
+
+}
+.some_input{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+  padding-top: none;
+  padding-left: 20rem;
+  padding-right: 20rem;
+
+}
+h1{
+  text-align: center;
+}
+.form_input{
+  
+}
